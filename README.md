@@ -1,3 +1,8 @@
+In this project i've applied some concepts which was taught me how works JWT in an application web, the relationship with different tables in postgreSQL and design patterns using TS language
+
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
